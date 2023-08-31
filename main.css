@@ -13,6 +13,11 @@
     margin-bottom: 10px;
 }
 
+.carousel-item img {
+    width: 100%;
+    max-width: 2000px;
+}
+
 .tema {
     color: black;
 }
