@@ -1,0 +1,59 @@
+.navbar {
+    background-color: rgb(233, 29, 29);
+}
+
+.nav .nav-link.active,
+#fale-conosco button {
+    background-color: black;
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.tema {
+    color: black;
+}
+
+#menus .nav .nav-link,
+.nav-brand {
+    color: #fff;
+}
+
+header h3 {
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.bi-whatsapp {
+    color: rgb(12, 226, 48);
+}
+
+.bi-instagram {
+    color: rgb(250, 10, 158);
+}
+
+.fontes {
+    font-family: 'Trade Winds', cursive;
+}
+
+@media screen and (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+
+    header h3 {
+        position: relative;
+        bottom: 10px;
+    }
+}
